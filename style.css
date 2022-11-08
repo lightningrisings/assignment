@@ -1,0 +1,21 @@
+
+
+
+body {
+    background-color:#9ED5C5;
+    color:#E97777;
+}
+
+#one {
+    color: #000;
+}
+#two {
+    color: blueviolet;
+}
+.brown-color {
+    color:#9E7676 ;
+}
+
+div{
+    color: rgb(85, 24, 24);
+}
